@@ -1,0 +1,6 @@
+{
+  "name": "HarvestBridge AI — Smart Crop Surplus Coordination",
+  "description": "Intelligent agricultural surplus coordination platform connecting farmers with nearby buyers to prevent post-harvest food loss through algorithmic matching, spoilage urgency scoring, and real-time logistics optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
